@@ -4,6 +4,7 @@ class NegociacaoControle{
         this.inputData = $ ('#data')
         this.inputQuaqtidade =  $ ('#quantidade')
         this.inputvalor =  $ ('#valor')
+
     }
 
     adcionar(evento){
